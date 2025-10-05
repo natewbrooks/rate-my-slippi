@@ -12,7 +12,7 @@
         width={180}
         alt="Logo white"
     />
-    Rate My Slippi
+    <h1 class="text-white font-hand text-5xl">Rate My Slippi</h1>
 
     <div class="h-full space-x-4 flex">
         <button><Icon icon="mdi-user" class="text-white" width=52/></button>
