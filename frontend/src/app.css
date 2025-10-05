@@ -1,0 +1,17 @@
+@import 'tailwindcss';
+
+@theme {
+    --color-red: #BA3021;
+    --color-green: #21BA45;
+    --color-black: #000;
+    --color-white: #ffffff;
+}
+
+button:hover {
+    cursor: pointer;
+    opacity: 50%;
+}
+
+button:active {
+    scale: 95%;
+}
