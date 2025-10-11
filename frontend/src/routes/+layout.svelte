@@ -14,7 +14,7 @@
 <main class="h-full w-full flex flex-col justify-between items-center">
 	<Nav />
 
-	<div class="flex max-w-3xl h-full mx-auto justify-center">
+	<div class="flex max-w-md lg:max-w-lg h-full mx-auto justify-center text-white font-sans leading-4 overflow-hidden">
 		{@render children?.()}
 	</div>
 

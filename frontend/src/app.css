@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jaldi:wght@400;700&display=swap');
 @import 'tailwindcss';
 
 @theme {
@@ -6,7 +7,10 @@
     --color-green: #21BA45;
     --color-black: #000;
     --color-white: #ffffff;
+    --color-gray: #303030;
+    --color-darkgray: #1A1A1A;
     --font-hand: "Nothing You Could Do", sans;
+    --font-sans: "Jaldi", sans;
 }
 
 button:hover {
